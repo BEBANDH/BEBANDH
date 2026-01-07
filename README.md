@@ -69,6 +69,8 @@ If you’re interested in:
 
     Or simply connecting, feel free to reach out.
 
-Email: bebandhshrivastava5757@gmail.com LinkedIn: bebandhshrivastava Portfolio: portfolio2025-one-flax.vercel.app GitHub: github.com/BEBANDH
+Email: bebandhshrivastava5757@gmail.com 
+LinkedIn: bebandhshrivastava
+Portfolio: portfolio2025-one-flax.vercel.app GitHub: github.com/BEBANDH
 
 Thank you for reading!
