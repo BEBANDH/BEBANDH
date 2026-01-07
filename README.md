@@ -1,4 +1,6 @@
 #Hello, I'm Bebandh
+
+
 About Me
 
 I am currently a B.Tech Computer Science student at JUET. I specialize in Generative AI applications and 3D design & development, with a strong technical foundation in Java, Data Analysis, and Cloud technologies.
