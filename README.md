@@ -63,7 +63,7 @@ Oh, and outside of tech? I would like to discuss deeply with you on anything wha
 
 ## 📬 Connect With Me
 
-If you want to talk Enterprise Java, Angular architecture, Gen AI orchestrations, or 3D digital twins, let's connect!
+If you want to talk on anything which resembles Tech, let's connect!
 
 *   📧 **Email:** [bebandhshrivastava5757@gmail.com](mailto:bebandhshrivastava5757@gmail.com)
 *   💼 **LinkedIn:** [linkedin.com/in/bebandhshrivastava](https://www.linkedin.com/in/bebandhshrivastava/)
