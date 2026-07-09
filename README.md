@@ -73,7 +73,7 @@ Email: bebandhshrivastava5757@gmail.com
 
 LinkedIn: bebandhshrivastava
 
-Portfolio: portfolio2025-one-flax.vercel.app 
+Portfolio: portfolio2026-one-flax.vercel.app 
 
 GitHub: github.com/BEBANDH
 
