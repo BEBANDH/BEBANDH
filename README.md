@@ -1,80 +1,71 @@
-#Hello, I'm Bebandh
+# Hello, I'm Bebandh Shrivastava 👋
 
+## About Me
+I am a **Full-Stack Software Engineer** specializing in enterprise **Java ecosystems (Spring Boot/Hibernate)** and modern **Angular** frontends. With a strong engineering foundation built during my Bachelors, I focus on building scalable, high-performance systems utilizing REST APIs while seamlessly integrating Cloud, DevOps, and AI utilities.
 
-About Me
+Beyond core backend and frontend engineering, I have a deep background in **3D asset pipelines (Digital Twins, AR/VR)** and **Generative AI orchestration**. I care about optimization—whether that means engineering secure, stateless JWT authentication or slashing asset polycounts for real-time performance. 
 
-I am currently a B.Tech Computer Science student at JUET. I specialize in Generative AI applications and 3D design & development, with a strong technical foundation in Java, Data Analysis, and Cloud technologies.
+Oh, and outside of tech? I would like to discuss deeply with you on anything whatsoever!
 
-Outside of core programming, I am a 1st Dan Black Belt. I spend much of my time researching AI-integrated applications and immersive 3D simulations. I am eager to learn and gain exposure across various industry roles while collaborating with experienced individuals to make a successful product impact.
+---
 
-About My Work
+## 🛠️ Technical Skills
 
-Most of my work lives at the intersection of:
+*   **Backend & Architecture:** Spring Boot, Microservices Architecture, RESTful APIs, Spring Data JPA, Spring Security, Hibernate, MySQL, SQL
+*   **Frontend & UI/UX:** Angular, JavaScript, HTML5, CSS3, Bootstrap, Figma
+*   **Cloud & DevOps:** AWS, GitHub, Vercel
+*   **AI & Prompt Engineering:** LangChain, LangSmith, Stable Diffusion, Hyperparameter Tuning
+*   **3D Development & Pipelines:** Blender, Substance Painter, Unity, Meshroom, World Creator
+*   **Data Analysis:** Power BI, Microsoft Excel
 
-    Generative AI & LLM Orchestration 
+---
 
-Immersive 3D Development & AR Simulations
+## 💼 Work Experience
 
-Performance Optimization (e.g., reducing polycount by 80% or image generation time by 60%)
+### **Oracle Consultant** | LTM  
+*June 2026 – Present*  
+*   Manage enterprise database infrastructure, system optimization, and environment deployments to ensure maximum uptime for core business applications.
 
-Cross-platform Tooling
+### **Graduate Engineer Trainee** | LTM  
+*March 2026 – June 2026*  
+*   Completed intensive Full-Stack training, developing scalable applications using Java, Spring Boot, Angular, and MySQL. 
+*   Engineered secure, stateless authentication layers by implementing JWT/Spring Security for RESTful APIs.
 
-I care about building functional, high-quality digital twins and AI tools that enhance visualization and interactive customer experiences.
+### **AI Intern** | Infosys Springboard  
+*November 2024 – January 2025*  
+*   Developed an AI-driven, voice-enabled customer care chatbot using LangChain, creating conversational logic flows and integrating sentiment analysis APIs.
 
-Major Projects
+### **3D Development Intern** | Tecnod8.ai, IIT-Mandi  
+*September 2024 – November 2024*  
+*   Engineered highly optimized 3D and photogrammetry assets for digital twins, managing asset pipelines to ensure smooth real-time performance.
 
-AI Call Center Intelligence A fully functional customer care chatbot designed for conversational flow:
+### **3D Development Intern** | IIIT-Delhi  
+*May 2024 – August 2024*  
+*   Developed interactive 3D elements and optimized application asset workflows for a game-based Sanskrit learning application.
 
-    Integrated sentiment analysis and voice-enabled chat.
+---
 
-Developed using LangChain and fine-tuned models.
+## 🚀 Featured Projects
 
-Focused on AI-driven customer interaction and real-time intelligence.
+*   **WiZone:** A Full-Stack WebApp created with Spring Boot for the management of Wi-Fi schemes, featuring a real-time request and feedback system.
+*   **Task Manager with Tracker:** A lightweight, zero-dependency productivity dashboard featuring offline data persistence, premium UI animations, and a custom GitHub-style contribution graph.
+*   **AI Call Center Intelligence:** A conversational chatbot built with LangChain, featuring sentiment analysis, voice chat, and fine-tuned conversational flows.
+*   **Image Stylizer:** An optimization-focused project that utilizes Stable Diffusion. Applied hyperparameter tuning to optimize workflows, successfully reducing image generation time by 60%.
 
-Image Stylizer An optimization-focused project for image generation:
+---
 
-    Utilized Stable Diffusion for high-quality image generation.
+## 🎓 Education & Certifications
 
-Applied hyperparameter tuning to optimize workflows.
+*   **B.Tech in Computer Science** | JUET, Guna (Aug 2021 – May 2025)
+*   **Certifications:** AWS SAA (TechA), Infosys Springboard AI Primer, TATA GenAI Data Analytics, Deloitte Tech Job Simulation, Principles of Generative AI, 1st Dan Black Belt.
 
-Successfully reduced generation time by 60%.
+---
 
-PicFlick An augmented reality filters application:
+## 📬 Connect With Me
 
-    Created using Lens Studio with real-time analytics.
+If you want to talk Enterprise Java, Angular architecture, Gen AI orchestrations, or 3D digital twins, let's connect!
 
-Custom 3D assets modeled and textured in Blender.
-
-Integrated cross-platform assets for an interactive mobile experience.
-
-Notes
-
-    I prioritize optimization—whether it's reducing asset polycounts or improving model inference speed.
-
-My background in 3D design (Blender, Unity, Substance Painter) heavily influences my UI/UX perspective.
-
-I have experience leading technical teams in VR, AR, and MR development.
-
-I am always open to learning new frameworks and tackling complex industry challenges.
-
-Contact
-
-If you’re interested in:
-
-    Gen AI and LLM implementation,
-
-    3D modeling and AR/VR development,
-
-    Data Analysis and Cloud technologies,
-
-    Or simply connecting, feel free to reach out.
-
-Email: bebandhshrivastava5757@gmail.com 
-
-LinkedIn: bebandhshrivastava
-
-Portfolio: portfolio2026-one-flax.vercel.app 
-
-GitHub: github.com/BEBANDH
-
-Thank you for reading!
+*   📧 **Email:** [bebandhshrivastava5757@gmail.com](mailto:bebandhshrivastava5757@gmail.com)
+*   💼 **LinkedIn:** [linkedin.com/in/bebandhshrivastava](https://www.linkedin.com/in/bebandhshrivastava/)
+*   🌐 **Portfolio:** [portfolio2026-one-flax.vercel.app](https://portfolio2026-one-flax.vercel.app/)
+*   💻 **GitHub:** [github.com/BEBANDH](https://github.com/BEBANDH)
